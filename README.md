@@ -1,15 +1,15 @@
-## :space_invader: Games in JavaScript <h3>
-
-### Freeway <h3>
-
-## 🛠️ Editor de texto utilizado:
+​##​ ​:​space_invader​:​ Freeway in JavaScript 
   
-Made on: https://editor.p5js.org/
+​###​ ​:​hammer​:​ Built on: 
+  
+​https://editor.p5js.org/ 
+ ​   
+###​ ​:​video_game​:​ How to play: 
+  
+Keyboard arrows, up and down. 
+  
+###​ ​📁 Project access 
+  
+You can play here: https://editor.p5js.org/nozellabrenda/full/AlD7or-Nk
+ ​  <p> PC Only*</p>
 
-You can play here: https://editor.p5js.org/nozellabrenda/full/AlD7or-Nk
-
-## Alternative Freeway for Babi :heart: <h3>
-
-You can play here: https://editor.p5js.org/nozellabrenda/full/b9UZH3Nam
-
-PC Only*
